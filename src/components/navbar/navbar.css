@@ -1,0 +1,26 @@
+.parent {
+  padding-left: 2vw;
+  padding-top: 2vh;
+  padding-right: 2vw;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  background-image: url("/bg.png");
+}
+
+ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+.menu {
+  font-size: 4vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-decoration: none;
+}
+.logo {
+}
